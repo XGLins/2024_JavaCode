@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -24,6 +27,7 @@
     </option>
   </component>
   <component name="ProjectId" id="2fNEG1rZZ0RvI0wB83ciaXox2rP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -46,7 +50,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HelloWorld">
+  <component name="RunManager" selected="Application.Homework6">
     <configuration name="CommentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CommentTest" />
       <module name="day01java初识" />
@@ -61,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Homework7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeworkThree.Homework7" />
+    <configuration name="Homework6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeworkThree.Homework6" />
       <module name="day01java初识" />
       <extension name="coverage">
         <pattern>
@@ -103,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Homework6" />
         <item itemvalue="Application.HelloWorld" />
         <item itemvalue="Application.CommentTest" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Homework7" />
       </list>
     </recent_temporary>
   </component>
@@ -120,6 +124,7 @@
       <option name="presentableId" value="Default" />
       <updated>1713633036485</updated>
       <workItem from="1713633037915" duration="732000" />
+      <workItem from="1713633884952" duration="12000" />
     </task>
     <servers />
   </component>
