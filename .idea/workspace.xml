@@ -33,9 +33,16 @@
     <property name="project.structure.side.proportion" value="0.29770115" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
-  <component name="RunManager" selected="Application.Homework6">
-    <configuration name="Exerl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exerl" />
+  <component name="RunManager" selected="Application.ConstantTest">
+    <configuration name="CommentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CommentTest" />
+      <module name="2024_JavaCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConstantTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConstantTest" />
       <module name="2024_JavaCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,26 +87,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Homework8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeworkThree.Homework8" />
-      <module name="2024_JavaCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homeworkThree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConstantTest" />
+        <item itemvalue="Application.CommentTest" />
         <item itemvalue="Application.Homework6" />
         <item itemvalue="Application.Homework1" />
         <item itemvalue="Application.Homework7" />
-        <item itemvalue="Application.Homework8" />
-        <item itemvalue="Application.Exerl" />
       </list>
     </recent_temporary>
   </component>
