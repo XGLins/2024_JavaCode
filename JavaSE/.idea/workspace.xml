@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="8e25780c-520e-4713-ba50-497a624ff1d2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +40,10 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/day01java初识/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.29770115" />
@@ -50,7 +57,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Homework6">
+  <component name="RunManager" selected="Application.Homework5">
     <configuration name="CommentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CommentTest" />
       <module name="day01java初识" />
@@ -61,6 +68,19 @@
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloWorld" />
       <module name="day01java初识" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Homework5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeworkThree.Homework5" />
+      <module name="day01java初识" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homeworkThree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -85,13 +105,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
-      <module name="day02数据类型和运算符" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="JavaSE" />
       <method v="2">
@@ -107,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Homework6" />
+        <item itemvalue="Application.Homework5" />
         <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.Homework6" />
         <item itemvalue="Application.CommentTest" />
         <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -125,6 +138,11 @@
       <updated>1713633036485</updated>
       <workItem from="1713633037915" duration="732000" />
       <workItem from="1713633884952" duration="12000" />
+      <workItem from="1713634227443" duration="26000" />
+      <workItem from="1713634415012" duration="255000" />
+      <workItem from="1713709499434" duration="1563000" />
+      <workItem from="1713970779955" duration="693000" />
+      <workItem from="1713972465253" duration="512000" />
     </task>
     <servers />
   </component>
