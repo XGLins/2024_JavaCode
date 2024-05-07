@@ -20,6 +20,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -44,10 +52,11 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.29770115" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -57,50 +66,38 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Homework5">
-    <configuration name="CommentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CommentTest" />
-      <module name="day01java初识" />
+  <component name="RunManager" selected="Application.OperatorTest2">
+    <configuration name="Exer2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exer2" />
+      <module name="day02数据类型和运算符" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
-      <module name="day01java初识" />
+    <configuration name="Exer3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exer3" />
+      <module name="day02数据类型和运算符" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Homework5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeworkThree.Homework5" />
-      <module name="day01java初识" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homeworkThree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="MathOperator2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MathOperator2" />
+      <module name="day02数据类型和运算符" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Homework6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeworkThree.Homework6" />
-      <module name="day01java初识" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homeworkThree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="OperatorTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OperatorTest1" />
+      <module name="day02数据类型和运算符" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
-      <module name="day03运算符和分支" />
+    <configuration name="OperatorTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OperatorTest2" />
+      <module name="day02数据类型和运算符" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -120,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Homework5" />
-        <item itemvalue="Application.HelloWorld" />
-        <item itemvalue="Application.Homework6" />
-        <item itemvalue="Application.CommentTest" />
-        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.OperatorTest2" />
+        <item itemvalue="Application.OperatorTest1" />
+        <item itemvalue="Application.Exer3" />
+        <item itemvalue="Application.MathOperator2" />
+        <item itemvalue="Application.Exer2" />
       </list>
     </recent_temporary>
   </component>
@@ -143,10 +140,30 @@
       <workItem from="1713709499434" duration="1563000" />
       <workItem from="1713970779955" duration="693000" />
       <workItem from="1713972465253" duration="512000" />
+      <workItem from="1714013506060" duration="10458000" />
+      <workItem from="1715044170419" duration="66000" />
+      <workItem from="1715044250114" duration="10525000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="HelloWorld.java" type="b2602c69:ProjectViewProjectNode" />
+        <item name="day01java初识" type="462c0819:PsiDirectoryNode" />
+      </path>
+      <path>
+        <item name="HelloWorld.java" type="b2602c69:ProjectViewProjectNode" />
+        <item name="day02数据类型和运算符" type="462c0819:PsiDirectoryNode" />
+      </path>
+      <path>
+        <item name="HelloWorld.java" type="b2602c69:ProjectViewProjectNode" />
+        <item name="day03运算符和分支" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
   </component>
 </project>
