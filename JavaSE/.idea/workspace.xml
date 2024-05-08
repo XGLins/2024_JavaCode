@@ -56,7 +56,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.29770115" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -66,38 +66,38 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OperatorTest2">
-    <configuration name="Exer2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exer2" />
-      <module name="day02数据类型和运算符" />
+  <component name="RunManager" selected="Application.HomeWork10">
+    <configuration name="HomeWork10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork10" />
+      <module name="day03运算符和分支" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exer3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exer3" />
-      <module name="day02数据类型和运算符" />
+    <configuration name="HomeWork7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork7" />
+      <module name="day03运算符和分支" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathOperator2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MathOperator2" />
-      <module name="day02数据类型和运算符" />
+    <configuration name="HomeWork8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork8" />
+      <module name="day03运算符和分支" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperatorTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OperatorTest1" />
-      <module name="day02数据类型和运算符" />
+    <configuration name="HomeWork9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork9" />
+      <module name="day03运算符和分支" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperatorTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OperatorTest2" />
-      <module name="day02数据类型和运算符" />
+    <configuration name="HomeWork99" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork99" />
+      <module name="day03运算符和分支" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -117,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OperatorTest2" />
-        <item itemvalue="Application.OperatorTest1" />
-        <item itemvalue="Application.Exer3" />
-        <item itemvalue="Application.MathOperator2" />
-        <item itemvalue="Application.Exer2" />
+        <item itemvalue="Application.HomeWork10" />
+        <item itemvalue="Application.HomeWork99" />
+        <item itemvalue="Application.HomeWork9" />
+        <item itemvalue="Application.HomeWork8" />
+        <item itemvalue="Application.HomeWork7" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +142,9 @@
       <workItem from="1713972465253" duration="512000" />
       <workItem from="1714013506060" duration="10458000" />
       <workItem from="1715044170419" duration="66000" />
-      <workItem from="1715044250114" duration="10525000" />
+      <workItem from="1715044250114" duration="22811000" />
+      <workItem from="1715082948266" duration="8362000" />
+      <workItem from="1715128163986" duration="12546000" />
     </task>
     <servers />
   </component>
