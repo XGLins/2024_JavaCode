@@ -69,6 +69,7 @@ public class HomeWork10 {
             }
             //(3)换行
             System.out.println();
+
         }
     }
 }

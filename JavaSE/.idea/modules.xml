@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/day01java初识/day01java初识.iml" filepath="$PROJECT_DIR$/day01java初识/day01java初识.iml" />
       <module fileurl="file://$PROJECT_DIR$/day02数据类型和运算符/day02数据类型和运算符.iml" filepath="$PROJECT_DIR$/day02数据类型和运算符/day02数据类型和运算符.iml" />
       <module fileurl="file://$PROJECT_DIR$/day03运算符和分支/day03运算符和分支.iml" filepath="$PROJECT_DIR$/day03运算符和分支/day03运算符和分支.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04分支和循环/day04分支和循环.iml" filepath="$PROJECT_DIR$/day04分支和循环/day04分支和循环.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day05循环和数组/day05循环和数组.iml" filepath="$PROJECT_DIR$/day05循环和数组/day05循环和数组.iml" />
     </modules>
   </component>
 </project>

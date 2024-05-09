@@ -10,6 +10,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -56,7 +59,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.29770115" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -66,38 +69,38 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HomeWork10">
-    <configuration name="HomeWork10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork10" />
-      <module name="day03运算符和分支" />
+  <component name="RunManager" selected="Application.DoWhile">
+    <configuration name="DoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DoWhile" />
+      <module name="day04分支和循环" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomeWork7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork7" />
-      <module name="day03运算符和分支" />
+    <configuration name="ForTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForTest2" />
+      <module name="day04分支和循环" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomeWork8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork8" />
-      <module name="day03运算符和分支" />
+    <configuration name="RandomTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RandomTest" />
+      <module name="day04分支和循环" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomeWork9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork9" />
-      <module name="day03运算符和分支" />
+    <configuration name="WhileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WhileTest" />
+      <module name="day04分支和循环" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomeWork99" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork99" />
-      <module name="day03运算符和分支" />
+    <configuration name="WhileTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WhileTest2" />
+      <module name="day04分支和循环" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -117,15 +120,18 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HomeWork10" />
-        <item itemvalue="Application.HomeWork99" />
-        <item itemvalue="Application.HomeWork9" />
-        <item itemvalue="Application.HomeWork8" />
-        <item itemvalue="Application.HomeWork7" />
+        <item itemvalue="Application.DoWhile" />
+        <item itemvalue="Application.RandomTest" />
+        <item itemvalue="Application.WhileTest2" />
+        <item itemvalue="Application.WhileTest" />
+        <item itemvalue="Application.ForTest2" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="8e25780c-520e-4713-ba50-497a624ff1d2" name="Changes" comment="" />
@@ -145,11 +151,35 @@
       <workItem from="1715044250114" duration="22811000" />
       <workItem from="1715082948266" duration="8362000" />
       <workItem from="1715128163986" duration="12546000" />
+      <workItem from="1715156758166" duration="2351000" />
+      <workItem from="1715215435055" duration="7347000" />
+      <workItem from="1715235212415" duration="9645000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/day04分支和循环/src/SwitchTest.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/day04分支和循环/src/SwitchTest.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/day04分支和循环/src/SwitchTest.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>
