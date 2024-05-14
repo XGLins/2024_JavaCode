@@ -59,7 +59,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.29770115" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+    <property name="settings.editor.selected.configurable" value="Debugger_Data_Views_Java" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -69,38 +69,38 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReturnTest">
-    <configuration name="BreakTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BreakTest" />
-      <module name="day04分支和循环" />
+  <component name="RunManager" selected="Application.ArrayExer">
+    <configuration name="ArrayExer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayExer" />
+      <module name="day06数组和方法" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DoWhile" />
-      <module name="day04分支和循环" />
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BubbleSort" />
+      <module name="day06数组和方法" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoWhileExer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DoWhileExer" />
-      <module name="day04分支和循环" />
+    <configuration name="DoubleArray01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DoubleArray01" />
+      <module name="day06数组和方法" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RandomTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RandomTest" />
-      <module name="day04分支和循环" />
+    <configuration name="DoubleArray04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DoubleArray04" />
+      <module name="day06数组和方法" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReturnTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReturnTest" />
-      <module name="day04分支和循环" />
+    <configuration name="ReverseTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseTest2" />
+      <module name="day06数组和方法" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -120,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReturnTest" />
-        <item itemvalue="Application.BreakTest" />
-        <item itemvalue="Application.DoWhileExer" />
-        <item itemvalue="Application.DoWhile" />
-        <item itemvalue="Application.RandomTest" />
+        <item itemvalue="Application.ArrayExer" />
+        <item itemvalue="Application.DoubleArray04" />
+        <item itemvalue="Application.DoubleArray01" />
+        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.ReverseTest2" />
       </list>
     </recent_temporary>
   </component>
@@ -156,6 +156,10 @@
       <workItem from="1715235212415" duration="10250000" />
       <workItem from="1715303497083" duration="3795000" />
       <workItem from="1715331047108" duration="3596000" />
+      <workItem from="1715388007371" duration="5948000" />
+      <workItem from="1715560954858" duration="11043000" />
+      <workItem from="1715647282246" duration="9690000" />
+      <workItem from="1715690869470" duration="955000" />
     </task>
     <servers />
   </component>
