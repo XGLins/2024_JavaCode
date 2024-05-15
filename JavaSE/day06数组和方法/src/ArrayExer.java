@@ -2,7 +2,7 @@
  * @author XGLins
  * @date 2024/5/14 11:51
  *
- * page21
+ *
  */
 public class ArrayExer {
     public static void main(String[] args) {
